@@ -35,9 +35,11 @@ First, I experimented with various segmentation approaches on sample images to s
 - Edge detection mostly failed
 
 Here's one of my test images:
+
 ![Image 1 for testing](testdata/image1.png)
 
 And the comparison of different methods I tried:
+
 ![Testing techniques on image 1](motor_results/comparisons/image1_comparison.png)
 
 ### Step 2: Building the Production System (`src/motor_density_estimator.py`)
