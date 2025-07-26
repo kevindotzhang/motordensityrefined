@@ -1,0 +1,238 @@
+{
+  "analysis_date": "2025-07-21T19:09:07.702784",
+  "total_images": 4,
+  "results": {
+    "image1": {
+      "image_path": "image1.png",
+      "comparison_path": "motor_results\\comparisons\\image1_comparison.png",
+      "methods": {
+        "hsv_saturation_raw": {
+          "density": 0.7265924626681817,
+          "solid_pixels": 197599.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.27340753733181833
+        },
+        "hsv_saturation_morphed": {
+          "density": 0.8093310241107838,
+          "solid_pixels": 220100.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.19066897588921616
+        },
+        "lab_a_channel_raw": {
+          "density": 0.5228403437358661,
+          "solid_pixels": 142188.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.4771596562641339
+        },
+        "lab_a_channel_morphed": {
+          "density": 0.6631918015245282,
+          "solid_pixels": 180357.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.33680819847547183
+        },
+        "adaptive_threshold_raw": {
+          "density": 0.6298661901137329,
+          "solid_pixels": 171294.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.3701338098862671
+        },
+        "adaptive_threshold_morphed": {
+          "density": 0.7590208602221707,
+          "solid_pixels": 206418.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.24097913977782925
+        },
+        "multi_threshold_raw": {
+          "density": 0.4179950211985159,
+          "solid_pixels": 113675.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.582004978801484
+        },
+        "multi_threshold_morphed": {
+          "density": 0.4520192827437094,
+          "solid_pixels": 122928.0,
+          "total_pixels": 271953.0,
+          "void_ratio": 0.5479807172562906
+        }
+      },
+      "best_method": {
+        "name": "hsv_saturation_morphed",
+        "density": 0.8093310241107838
+      }
+    },
+    "image2": {
+      "image_path": "image2.png",
+      "comparison_path": "motor_results\\comparisons\\image2_comparison.png",
+      "methods": {
+        "hsv_saturation_raw": {
+          "density": 0.4394957553964184,
+          "solid_pixels": 215109.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.5605042446035816
+        },
+        "hsv_saturation_morphed": {
+          "density": 0.5077587880149966,
+          "solid_pixels": 248520.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.49224121198500337
+        },
+        "lab_a_channel_raw": {
+          "density": 0.7733943548304713,
+          "solid_pixels": 378534.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.22660564516952875
+        },
+        "lab_a_channel_morphed": {
+          "density": 0.8390462666898222,
+          "solid_pixels": 410667.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.16095373331017782
+        },
+        "adaptive_threshold_raw": {
+          "density": 0.6956471105027122,
+          "solid_pixels": 340481.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.3043528894972878
+        },
+        "adaptive_threshold_morphed": {
+          "density": 0.8295579687196722,
+          "solid_pixels": 406023.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.17044203128032775
+        },
+        "multi_threshold_raw": {
+          "density": 0.6586194567316042,
+          "solid_pixels": 322358.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.34138054326839584
+        },
+        "multi_threshold_morphed": {
+          "density": 0.7100716117234828,
+          "solid_pixels": 347541.0,
+          "total_pixels": 489445.0,
+          "void_ratio": 0.28992838827651723
+        }
+      },
+      "best_method": {
+        "name": "lab_a_channel_morphed",
+        "density": 0.8390462666898222
+      }
+    },
+    "image3": {
+      "image_path": "image3.png",
+      "comparison_path": "motor_results\\comparisons\\image3_comparison.png",
+      "methods": {
+        "hsv_saturation_raw": {
+          "density": 0.6636424731182796,
+          "solid_pixels": 71100.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.3363575268817204
+        },
+        "hsv_saturation_morphed": {
+          "density": 0.8056768966547192,
+          "solid_pixels": 86317.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.1943231033452808
+        },
+        "lab_a_channel_raw": {
+          "density": 0.6111017771804063,
+          "solid_pixels": 65471.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.38889822281959374
+        },
+        "lab_a_channel_morphed": {
+          "density": 0.7552736708482676,
+          "solid_pixels": 80917.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.24472632915173242
+        },
+        "adaptive_threshold_raw": {
+          "density": 0.5493951612903226,
+          "solid_pixels": 58860.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.4506048387096774
+        },
+        "adaptive_threshold_morphed": {
+          "density": 0.775089605734767,
+          "solid_pixels": 83040.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.22491039426523296
+        },
+        "multi_threshold_raw": {
+          "density": 0.5036215651135006,
+          "solid_pixels": 53956.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.49637843488649935
+        },
+        "multi_threshold_morphed": {
+          "density": 0.6357153524492234,
+          "solid_pixels": 68108.0,
+          "total_pixels": 107136.0,
+          "void_ratio": 0.3642846475507766
+        }
+      },
+      "best_method": {
+        "name": "hsv_saturation_morphed",
+        "density": 0.8056768966547192
+      }
+    },
+    "image4": {
+      "image_path": "image4.png",
+      "comparison_path": "motor_results\\comparisons\\image4_comparison.png",
+      "methods": {
+        "hsv_saturation_raw": {
+          "density": 0.4576414225170444,
+          "solid_pixels": 124181.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.5423585774829556
+        },
+        "hsv_saturation_morphed": {
+          "density": 0.5683987470057121,
+          "solid_pixels": 154235.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.43160125299428787
+        },
+        "lab_a_channel_raw": {
+          "density": 0.5784005896443707,
+          "solid_pixels": 156949.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.4215994103556293
+        },
+        "lab_a_channel_morphed": {
+          "density": 0.7733222775013819,
+          "solid_pixels": 209841.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.22667772249861806
+        },
+        "adaptive_threshold_raw": {
+          "density": 0.5763921135065414,
+          "solid_pixels": 156404.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.4236078864934586
+        },
+        "adaptive_threshold_morphed": {
+          "density": 0.7676432651557029,
+          "solid_pixels": 208300.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.23235673484429709
+        },
+        "multi_threshold_raw": {
+          "density": 0.5037184448129721,
+          "solid_pixels": 136684.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.4962815551870279
+        },
+        "multi_threshold_morphed": {
+          "density": 0.594479454578957,
+          "solid_pixels": 161312.0,
+          "total_pixels": 271350.0,
+          "void_ratio": 0.405520545421043
+        }
+      },
+      "best_method": {
+        "name": "lab_a_channel_morphed",
+        "density": 0.7733222775013819
+      }
+    }
+  }
+}

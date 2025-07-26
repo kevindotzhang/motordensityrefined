@@ -1,0 +1,288 @@
+MOTOR DENSITY ANALYSIS REPORT
+==================================================
+
+Generated: 2025-07-26 17:32:14
+
+OVERALL SUMMARY
+--------------------
+Total images processed: 1078
+Categories found: 42
+Datasets: old, new
+
+DENSITY STATISTICS
+--------------------
+Mean density: 0.807
+Median density: 0.831
+Standard deviation: 0.121
+Range: 0.216 - 0.999
+Interquartile range: 0.748 - 0.896
+
+CATEGORY BREAKDOWN
+--------------------
+
+OLD_DATA:
+  Images: 100
+  Average density: 0.782
+  Density range: 0.295 - 0.949
+  Best method: Adaptive (0.732)
+
+AC ALTERNATING CURRENT MOTOR:
+  Images: 7
+  Average density: 0.809
+  Density range: 0.531 - 0.958
+  Best method: HSV (0.750)
+
+AC ARMATURE:
+  Images: 3
+  Average density: 0.929
+  Density range: 0.901 - 0.982
+  Best method: LAB (0.966)
+
+AC GENERATOR:
+  Images: 7
+  Average density: 0.830
+  Density range: 0.676 - 0.965
+  Best method: LAB (0.759)
+
+AIR CONDITIONER UNITS WHOLE:
+  Images: 1
+  Average density: 0.799
+  Density range: 0.799 - 0.799
+  Best method: Adaptive (0.873)
+
+ALTERNATOR:
+  Images: 100
+  Average density: 0.700
+  Density range: 0.216 - 0.911
+  Best method: LAB (0.738)
+
+ALTERNATOR STATOR SMALL:
+  Images: 68
+  Average density: 0.850
+  Density range: 0.557 - 0.994
+  Best method: LAB (0.839)
+
+ALUMINUM CASE MOTOR:
+  Images: 7
+  Average density: 0.793
+  Density range: 0.593 - 0.921
+  Best method: HSV (0.759)
+
+BALLAST:
+  Images: 1
+  Average density: 0.924
+  Density range: 0.924 - 0.924
+  Best method: HSV (0.905)
+
+DC ARMATURE:
+  Images: 43
+  Average density: 0.892
+  Density range: 0.773 - 0.985
+  Best method: LAB (0.860)
+
+DC MOTOR:
+  Images: 99
+  Average density: 0.850
+  Density range: 0.578 - 0.996
+  Best method: HSV (0.804)
+
+FAN MOTOR:
+  Images: 1
+  Average density: 0.779
+  Density range: 0.779 - 0.779
+  Best method: LAB (0.947)
+
+HVAC MOTOR:
+  Images: 6
+  Average density: 0.875
+  Density range: 0.729 - 0.959
+  Best method: HSV (0.823)
+
+LARGE COPPER STATOR:
+  Images: 7
+  Average density: 0.849
+  Density range: 0.694 - 0.982
+  Best method: HSV (0.847)
+
+LARGE MOTOR:
+  Images: 100
+  Average density: 0.831
+  Density range: 0.442 - 0.974
+  Best method: HSV (0.786)
+
+MIX MOTOR:
+  Images: 100
+  Average density: 0.791
+  Density range: 0.371 - 0.987
+  Best method: LAB (0.739)
+
+MOTOR - ARMATURES:
+  Images: 1
+  Average density: 0.849
+  Density range: 0.849 - 0.849
+  Best method: HSV (0.874)
+
+MOTOR- AIR CONDITIONER MOTOR:
+  Images: 6
+  Average density: 0.830
+  Density range: 0.622 - 0.955
+  Best method: HSV (0.786)
+
+MOTOR-AC COMPRESSOR:
+  Images: 32
+  Average density: 0.689
+  Density range: 0.287 - 0.933
+  Best method: LAB (0.679)
+
+MOTOR-AUTO AIR CONDITIONER COMPRESSOR COILS:
+  Images: 1
+  Average density: 0.788
+  Density range: 0.788 - 0.788
+  Best method: Adaptive (0.762)
+
+MOTOR-AUTO STARTER FIELD COILS:
+  Images: 1
+  Average density: 0.836
+  Density range: 0.836 - 0.836
+  Best method: LAB (0.767)
+
+MOTOR-AUTO STARTER SOLENOID:
+  Images: 1
+  Average density: 0.898
+  Density range: 0.898 - 0.898
+  Best method: LAB (0.835)
+
+MOTOR-CEILING FAN MOTOR:
+  Images: 32
+  Average density: 0.745
+  Density range: 0.493 - 0.924
+  Best method: HSV (0.715)
+
+MOTOR-COMPRESSOR W IRONY CASE:
+  Images: 1
+  Average density: 0.878
+  Density range: 0.878 - 0.878
+  Best method: LAB (0.859)
+
+MOTOR-ELECTRIC BALLAST:
+  Images: 1
+  Average density: 0.983
+  Density range: 0.983 - 0.983
+  Best method: HSV (0.977)
+
+MOTOR-ELECTRIC BRUSH:
+  Images: 1
+  Average density: 0.925
+  Density range: 0.925 - 0.925
+  Best method: HSV (0.946)
+
+MOTOR-FAN MOTOR:
+  Images: 1
+  Average density: 0.862
+  Density range: 0.862 - 0.862
+  Best method: HSV (0.787)
+
+MOTOR-MEATBALL:
+  Images: 100
+  Average density: 0.821
+  Density range: 0.374 - 0.999
+  Best method: LAB (0.815)
+
+MOTOR-SEALED UNIT:
+  Images: 52
+  Average density: 0.848
+  Density range: 0.607 - 0.952
+  Best method: HSV (0.769)
+
+MOTOR-TRACTION MOTOR CLEAN:
+  Images: 1
+  Average density: 0.889
+  Density range: 0.889 - 0.889
+  Best method: LAB (0.892)
+
+MOTOR-TRACTION MOTOR W-WHEEL:
+  Images: 1
+  Average density: 0.858
+  Density range: 0.858 - 0.858
+  Best method: LAB (0.848)
+
+MOTOR-WELL PUMP:
+  Images: 18
+  Average density: 0.782
+  Density range: 0.621 - 0.913
+  Best method: HSV (0.721)
+
+OIL FIELD PUMP MOTOR:
+  Images: 9
+  Average density: 0.880
+  Density range: 0.803 - 0.935
+  Best method: HSV (0.844)
+
+ROTORS FROM ALTERNATORS:
+  Images: 6
+  Average density: 0.952
+  Density range: 0.898 - 0.986
+  Best method: HSV (0.945)
+
+SMALL MOTOR:
+  Images: 83
+  Average density: 0.791
+  Density range: 0.238 - 0.972
+  Best method: HSV (0.738)
+
+SOLENOID:
+  Images: 7
+  Average density: 0.849
+  Density range: 0.703 - 0.944
+  Best method: HSV (0.784)
+
+STARTER AL NOSE:
+  Images: 29
+  Average density: 0.792
+  Density range: 0.668 - 0.910
+  Best method: LAB (0.760)
+
+STARTER ARMATURE:
+  Images: 23
+  Average density: 0.851
+  Density range: 0.587 - 0.977
+  Best method: HSV (0.814)
+
+SUMP PUMP:
+  Images: 1
+  Average density: 0.887
+  Density range: 0.887 - 0.887
+  Best method: LAB (0.873)
+
+TRACTION MOTOR 3 BOLTS:
+  Images: 13
+  Average density: 0.900
+  Density range: 0.825 - 0.972
+  Best method: LAB (0.868)
+
+TRACTION MOTOR 4 BOLTS:
+  Images: 6
+  Average density: 0.790
+  Density range: 0.690 - 0.916
+  Best method: LAB (0.745)
+
+TRUCK STARTER FE NOSE:
+  Images: 1
+  Average density: 0.736
+  Density range: 0.736 - 0.736
+  Best method: Adaptive (0.697)
+
+PERFORMANCE METRICS
+--------------------
+Average processing time: 0.53 seconds
+Total processing time: 0.16 hours
+Average ROI coverage: 0.382
+
+RECOMMENDATIONS
+--------------------
+Based on the analysis:
+
+• High average density detected - pipeline working well for dense motor piles
+• Low ROI coverage - consider adjusting background masking parameters
+• Review category-specific results for optimal method selection
+• Consider the visualizations for deeper insights

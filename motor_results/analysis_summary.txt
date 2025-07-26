@@ -1,0 +1,62 @@
+MOTOR DENSITY ANALYSIS SUMMARY
+==================================================
+
+Analysis Date: 2025-07-21 19:09:07
+Total Images Processed: 4
+
+IMAGE: image1
+------------------------------
+Best Method: hsv_saturation_morphed (Density: 0.809)
+
+All Methods:
+  hsv_saturation_morphed   : 0.809
+  adaptive_threshold_morphed: 0.759
+  hsv_saturation_raw       : 0.727
+  lab_a_channel_morphed    : 0.663
+  adaptive_threshold_raw   : 0.630
+  lab_a_channel_raw        : 0.523
+  multi_threshold_morphed  : 0.452
+  multi_threshold_raw      : 0.418
+
+IMAGE: image2
+------------------------------
+Best Method: lab_a_channel_morphed (Density: 0.839)
+
+All Methods:
+  lab_a_channel_morphed    : 0.839
+  adaptive_threshold_morphed: 0.830
+  lab_a_channel_raw        : 0.773
+  multi_threshold_morphed  : 0.710
+  adaptive_threshold_raw   : 0.696
+  multi_threshold_raw      : 0.659
+  hsv_saturation_morphed   : 0.508
+  hsv_saturation_raw       : 0.439
+
+IMAGE: image3
+------------------------------
+Best Method: hsv_saturation_morphed (Density: 0.806)
+
+All Methods:
+  hsv_saturation_morphed   : 0.806
+  adaptive_threshold_morphed: 0.775
+  lab_a_channel_morphed    : 0.755
+  hsv_saturation_raw       : 0.664
+  multi_threshold_morphed  : 0.636
+  lab_a_channel_raw        : 0.611
+  adaptive_threshold_raw   : 0.549
+  multi_threshold_raw      : 0.504
+
+IMAGE: image4
+------------------------------
+Best Method: lab_a_channel_morphed (Density: 0.773)
+
+All Methods:
+  lab_a_channel_morphed    : 0.773
+  adaptive_threshold_morphed: 0.768
+  multi_threshold_morphed  : 0.594
+  lab_a_channel_raw        : 0.578
+  adaptive_threshold_raw   : 0.576
+  hsv_saturation_morphed   : 0.568
+  multi_threshold_raw      : 0.504
+  hsv_saturation_raw       : 0.458
+
