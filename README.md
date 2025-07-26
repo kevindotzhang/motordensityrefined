@@ -50,9 +50,11 @@ Once I figured out what works, I built the actual pipeline:
 - Ignores image borders where background usually is
 
 Here's how it works on a large motor sample:
+
 ![Large motor sample result](<analysis_results/sample_results/Large copper stator/Motor-Large-copper-stator-7_jpg.rf.81f9c0e8694907d14f1f90a2219ee564_analysis.png>)
 
 And a smaller motor example:
+
 ![Small motor example](<analysis_results/sample_results/Motor-Auto starter field coils/Motor-Auto-starter-field-coils-_jpg.rf.906640e88fb02b8368a2f0dc913c9120_analysis.png>)
 
 #### Three-Method Ensemble
